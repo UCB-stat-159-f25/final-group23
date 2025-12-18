@@ -2,6 +2,7 @@
 
 # Yelp Review Dataset Analysis
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group23/HEAD?urlpath=%2Fdoc%2Ftree%2Fmain.ipynb)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17973060.svg)](https://doi.org/10.5281/zenodo.17973060)
 
 ## Overview
 
