@@ -1,0 +1,29 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+
+project:
+  id: bc93d936-0d66-44ff-aa64-749a73ede2da
+  title: "Stat 159 Final Project: Analysis of Yelp Dataset"
+  bibliography: references.bib
+  authors:
+    - I Gy Chen
+    - Cyrus Choi
+    - Saachi Goyal
+    - Tony Zhang
+  github: https://github.com/UCB-stat-159-f25/final-group23
+
+  toc:
+    - file: README
+    - file: main
+    - file: data_preparation
+    - file: eda
+    - file: modeling
+
+site:
+  template: book-theme
+  title: "Stat 159: Final Project – Analysis of Yelp Dataset"
+  options:
+    search: true
+  actions:
+    - title: "Launch on Binder"
+      url: https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group23/HEAD?urlpath=%2Fdoc%2Ftree%2Fmain.ipynb

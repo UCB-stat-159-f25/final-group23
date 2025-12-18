@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sSkqmNLf)
 
 # Yelp Review Dataset Analysis
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s25/final-group23.git/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group23/HEAD?urlpath=%2Fdoc%2Ftree%2Fmain.ipynb)
 
 ## Overview
 
@@ -13,6 +13,7 @@ The dataset used in this project is the Yelp Open Dataset, available at
 https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/data.  
 
 Example:
+```json
 {"review_id":"KU_O5udG6zpxOg-VcAEodg","user_id":"mh_-eMZ6K5RLWhZyISBhwA","business_id":"XQfwVwDr-v0ZS3_CbbE5Xw","stars":3.0,"useful":0,"funny":0,"cool":0,"text":"If you decide to eat here, just be aware it is going to take about 2 hours from beginning to end. We have tried it multiple times, because I want to like it! I have been to it's other locations in NJ and never had a bad experience. \n\nThe food is good, but it takes a very long time to come out. The waitstaff is very young, but usually pleasant. We have just had too many experiences where we spent way too long waiting. We usually opt for another diner or restaurant on the weekends, in order to be done quicker.","date":"2018-07-07 22:09:11"}
 
 Because the full Yelp Open Dataset is large, we rely on programmatic subsetting and preprocessing steps to construct a manageable and reproducible analysis dataset. All data processing steps are fully documented in the analysis notebooks, and the final cleaned subset used for modeling is saved locally within the repository to ensure long-term reproducibility.
@@ -71,3 +72,7 @@ To execute all notebooks, run:
 To run tests, navigate to the root directory of the project and execute the following command:
 	
 	PYTHONPATH=./ pytest
+
+## License
+
+This project is licensed under the BSD 3-Clause License.
