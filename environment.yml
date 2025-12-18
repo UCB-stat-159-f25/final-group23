@@ -1,0 +1,15 @@
+name: stat159-project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy<2
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pytest
+  - jupyter
+  - pip
+  - pip:
+      - kagglehub
+      - pyarrow==14.0.2

@@ -1,0 +1,6 @@
+- Creating sample text dataset for test_utils.py
+- Assisting with debugging minor code issues with libraries like Kaggle.
+
+All data analysis, model implementation, result interpretation, and final decisions were conducted and verified by the project team. AI suggestions were reviewed critically and adapted as needed to ensure correctness, originality, and alignment with course policies.
+
+No AI tools were used to automatically generate final results, fabricate data, or bypass the learning objectives of the course.
