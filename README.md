@@ -28,8 +28,9 @@ The repository is structured as follows:
 * `outputs/`: Contains the generated outputs, including csv files and figures
 * `src/`: Contains utility functions and tests for the project
 * `main.ipynb`: Main project notebook, providing an overview of the analysis and results
-* `data_processing.ipynb`: Notebook containing data cleaning and preprocessing steps
-* `data_analysis_1.ipynb` and `data_analysis_2.ipynb`: Notebooks containing data analysis
+* `data_preparation.ipynb`: Notebook containing data cleaning and preprocessing steps
+* `eda.ipynb`: Notebook containing exploratory data analysis steps
+* `modeling.ipynb`: Notebook containing modeling steps
 * `environment.yml`: Environment file with required packages for the project
 * `Makefile`: Makefile to build JupyterBook for the repository and manage other tasks
 
