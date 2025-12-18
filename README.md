@@ -20,9 +20,6 @@ Example:
 
 Because the full Yelp Open Dataset is large, we rely on programmatic subsetting and preprocessing steps to construct a manageable and reproducible analysis dataset. All data processing steps are fully documented in the analysis notebooks, and the final cleaned subset used for modeling is saved locally within the repository to ensure long-term reproducibility.
 
-## Project Website
-The project's JupyterBook website can be accessed [here](https://ucb-stat-159-s23.github.io/final-group23.git/main.html)
-
 ## Repository Structure
 
 The repository is structured as follows:
